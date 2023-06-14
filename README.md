@@ -1,6 +1,6 @@
 # GBA-Free-Space-Finder
 
-Intended to find free space in a given file, specifically for GBA ROMs.
+Graphical interface intended to find free space in a given file, specifically for GBA ROMs.
 
 Usage:
 cargo run [path to file]
